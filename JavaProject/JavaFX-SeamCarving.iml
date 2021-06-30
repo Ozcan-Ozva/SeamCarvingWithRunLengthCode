@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <ANNOTATIONS>
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+        </ANNOTATIONS>
+        <CLASSES>
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+        </JAVADOC>
+        <NATIVE>
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+        </NATIVE>
+        <SOURCES>
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+          <root url="file://F:/ProgramExe/javafx-sdk-16" />
+        </SOURCES>
+        <jarDirectory url="file://F:/ProgramExe/javafx-sdk-16" recursive="false" />
+        <jarDirectory url="file://F:/ProgramExe/javafx-sdk-16" recursive="false" />
+        <jarDirectory url="file://F:/ProgramExe/javafx-sdk-16" recursive="false" type="SOURCES" />
+        <jarDirectory url="file://F:/ProgramExe/javafx-sdk-16" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="JavaPro" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+  </component>
+</module>
